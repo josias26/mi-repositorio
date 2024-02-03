@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mi-repositorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+609959855476faaf0bcdba1cef3a30ff039164ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa81b56cd62b3209c794257ef6e54d5ec88648d")]
 [assembly: System.Reflection.AssemblyProductAttribute("mi-repositorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mi-repositorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
